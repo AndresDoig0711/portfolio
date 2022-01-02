@@ -5,4 +5,4 @@ git init
 git remote add origin "http...."
 git add .
 git commit -m "mesage"
-git push origin master
+git push -f origin master
