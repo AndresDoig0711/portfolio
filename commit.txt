@@ -1,0 +1,8 @@
+git clone 
+
+
+git init 
+git remote add origin "http...."
+git add .
+git commit -m "mesage"
+git push origin master
