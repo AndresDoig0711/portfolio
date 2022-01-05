@@ -293,7 +293,7 @@ header {
 
 .my-services {
     background-color: var(--clr-dark);
-    background-image: url(../img/services.png);
+    background-image: url(../img/services2.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     color: var(--clr-light);
@@ -384,6 +384,9 @@ header {
 
 .my-work{
     background-color: var(--clr-dark);
+    background-image: url(../img/services1.png);
+    background-size: cover;
+    background-blend-mode: overlay;
     color: var(--clr-light);
     text-align: center;
 
